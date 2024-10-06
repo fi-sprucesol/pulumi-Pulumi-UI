@@ -1,2 +1,2 @@
-# pulumi-template-UI
-this is UI template
+# pulumi-Pulumi-UI
+this is UI Pulumi
